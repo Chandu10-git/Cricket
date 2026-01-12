@@ -7,3 +7,4 @@ New line added in vs code
 Practiced the git push command in vus code to push it into github(remote)
 Added in the featured branch
 Featured branch name - "New branch"
+Again made a changes in vscode
