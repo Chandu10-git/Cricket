@@ -2,3 +2,6 @@
 new repo
 Practicing the git new repository
 New line added in vs code
+
+12/01/2026
+Practiced the git push command in vus code to push it into github(remote)
